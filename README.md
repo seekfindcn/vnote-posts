@@ -1,5 +1,5 @@
 # vnote-posts
-Here collect articles about VNote from users.
+These are articles about VNote from users.
 
 - Copyright is reserved for the authors.
 - If you want to list your articles here, feel free to PR.
